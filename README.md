@@ -1,4 +1,4 @@
-## Oiii eu sou a Evyla Fernanda, estudante de Análise e Desenvolvimento de Sistemas!
+## Olá! Eu sou a Evyla Fernanda, estudante de Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudando front-end
 - 😄 Pronouns: ela/dela
 
