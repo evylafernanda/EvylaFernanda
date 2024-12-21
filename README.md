@@ -1,4 +1,4 @@
-## Olá! Eu sou a Evyla Fernanda, Formada em Análise e Desenvolvimento de Sistemas.
+## Olá! Eu sou Evyla Fernanda, Formada em Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudando front-end
 - 😄 Pronouns: ela/dela
 - Atualmente, estou buscando aprimorar minhas habilidades para a web. Sou apaixonada por transformar linhas de código em soluções funcionais e acessíveis. Meu objetivo é não apenas dominar as linguagens e ferramentas necessárias, mas também trazer um toque de criatividade e eficiência a cada projeto que abraço. Estou sempre em busca de desafios que me permitam crescer profissionalmente.
