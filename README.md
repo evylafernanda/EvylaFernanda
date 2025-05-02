@@ -4,9 +4,9 @@
 - Atualmente, estou buscando aprimorar minhas habilidades para a web. Sou apaixonada por transformar linhas de código em soluções funcionais e acessíveis. Meu objetivo é não apenas dominar as linguagens e ferramentas necessárias, mas também trazer um toque de criatividade e eficiência a cada projeto que abraço. Estou sempre em busca de desafios que me permitam crescer profissionalmente.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="evyla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="evyla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="evyla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="evyla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <hr>
